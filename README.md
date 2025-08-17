@@ -1,6 +1,6 @@
-📌 PinHoarder
+## 📌 PinHoarder
 
-![PinHoarder Logo](imgs/logo.png)
+![PinHoarder Logo](imgs/Screenshot_20250817-143141_1.png)
 
 **PinHoarder** is a **Pinterest Mass Image Downloader** that lets you collect and save images from Pinterest using simple command-line options.
 
