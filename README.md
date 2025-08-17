@@ -1,6 +1,6 @@
-ðŸ“Œ PinHoarder
+📌 PinHoarder
 
-![PinHoarder Logo](logo.png)
+![PinHoarder Logo](imgs/logo.png)
 
 **PinHoarder** is a **Pinterest Mass Image Downloader** that lets you collect and save images from Pinterest using simple command-line options.
 
@@ -56,6 +56,6 @@ python3 pinhoarder.py --kf keywords.txt --scroll 3 -o results --download
 ---
 
 
-## 🧑‍✈️ >> Author
+## 🧑‍✈️ -> AUTHOR
 
 Created with ❤️ by **@bilalhaiderid**
