@@ -313,6 +313,7 @@ def load_keywords(args) -> list:
 
 
 def main():
+    print("/n")
     args = parse_args()
     keywords = load_keywords(args)
     if not keywords:
