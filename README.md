@@ -56,6 +56,6 @@ python3 pinhoarder.py --kf keywords.txt --scroll 3 -o results --download
 ---
 
 
-## 🧑‍✈️ -> AUTHOR
+## Author
 
 Created with ❤️ by **@bilalhaiderid**
